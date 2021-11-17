@@ -1,0 +1,1 @@
+This code controls the FLIR ONE PRO thermal camera. If temperature measured by the camera is higher than the threshold, it will close the Thorlabs shutter.
