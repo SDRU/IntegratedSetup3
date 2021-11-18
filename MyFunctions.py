@@ -52,4 +52,3 @@ class ShutterObject:
     
     def close(self):
         self.Shutter.close()
-
